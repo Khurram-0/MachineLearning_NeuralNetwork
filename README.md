@@ -51,7 +51,7 @@ Case 5:
 
 **Results:**
 
-<img src="[https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg)"  width="50"/>
+<img src="[https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg)"  width="100"/>
 
 ![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg | width=50)
 
