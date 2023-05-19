@@ -49,8 +49,7 @@ Case 5:
   – NN structure: Structure 1.
   – Activation function: tanh
 
-**Results:**
-
+<font size = "14">**Results** </font>
 <img src="https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg"  width="400"/>
 <img src="https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case2_plots.jpg"  width="400"/>
 <img src="https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case3_plots.jpg"  width="400"/>
