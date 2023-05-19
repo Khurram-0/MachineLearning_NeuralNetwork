@@ -1,4 +1,4 @@
-# Machine Learning Algorithms - NeuralNetwork
+# Machine Learning - NeuralNetwork
 
 Implementation of different configurations of neural network to approximate the function y = 0.2x^4 + 2x^3 + 0.1x^2 + 10 where (−1 ≤ x ≤ 1).
 
