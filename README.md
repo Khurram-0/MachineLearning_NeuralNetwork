@@ -51,17 +51,17 @@ Case 5:
 
 **Results:**
 
-<img src="https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg"  width="100"/>
+<img src="https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg"  width="200"/>
 
-![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg) | width=10)
+![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg | width=10)
 
-![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case2_plots.jpg) | width=10)
+![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case2_plots.jpg | width=10)
 
-![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case3_plots.jpg) | width=10)
+![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case3_plots.jpg | width=10)
 
-![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case4_plots.jpg) | width=10)
+![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case4_plots.jpg | width=10)
 
-![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case5_plots.jpg) | width=10)
+![](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case5_plots.jpg | width=10)
 
 
 
