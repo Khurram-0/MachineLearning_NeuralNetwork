@@ -49,8 +49,23 @@ Case 5:
   – NN structure: Structure 1.
   – Activation function: tanh
 
+**Results:**
+![alt text](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case1_plots.jpg)
 
-[–Importance of train, validation, and test data–]
+![alt text](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case2_plots.jpg)
+
+![alt text](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case3_plots.jpg)
+
+![alt text](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case4_plots.jpg)
+
+![alt text](https://github.com/Khurram-0/MachineLearning_NeuralNetwork/blob/main/case5_plots.jpg)
+
+
+
+
+Some discussions:
+
+**[–Importance of train, validation, and test data–]**
 The training set is used to develop a model for the dataset. While the validation set prevents the 
 model from, for example, being over fitted. During training the validation set is used to test how 
 well the model performs for datasets outside the training set – the matrices determined here are 
