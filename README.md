@@ -62,7 +62,7 @@ Case 5:
 
 **Some discussions:**
 
-**[–Importance of train, validation, and test data–]**
+**[_–Importance of train, validation, and test data–_]**
 The training set is used to develop a model for the dataset. While the validation set prevents the 
 model from, for example, being over fitted. During training the validation set is used to test how 
 well the model performs for datasets outside the training set – the matrices determined here are 
@@ -70,24 +70,24 @@ used to improve the model during the training phase. The test set is used after 
 phases have been completed to test how well the completed model performs. Thus all three 
 data sets are of utmost importance in order to develop a good model.
 
-**[–Importance of shuffling the data–]**
+**[_–Importance of shuffling the data_–]**
 Shuffling is very important in order to prevent datasets (train, validation & test) from each just 
 getting a chunk of data in a sequential order. If shuffling is not used before or after splitting, it 
 would be similar to cutting off sections of our initial plot and assigning them to either train, 
 validation &/or test data sets. In other words, each set would be biased
 
-**[–Number of neurons (units) per layer–]**
+**[_–Number of neurons (units) per layer–_]**
 As the number of neurons per layer is increased the time it takes to complete the training 
 process increases significantly. Increasing the number of neutrons can also lead to over-fitting,
 because the model may be learning very small details during the training process.
 Neural Networks
 
-**[–Number of layers–]**
+**[_–Number of layers–_]**
 Increasing the number of layers can help increase the accuracy of the model. If the number of 
 layers is increased to too much the accuracy of the model to decrease – due to overfitting. Thus, 
 the number of layers can be increased as long as the performance of the network improves.
 
-**[–Difference between tanh and relu activation functions–]**
+**[_–Difference between tanh and relu activation functions–_]**
 One of the differences between relu and tanh is that with the relu activation function the 
 training process is completed faster. Additionally, the tanh has steeper derivative, this means 
 that the gradient is stronger which can lead to a “vanishing gradient” (this can be seen in Case 3)
