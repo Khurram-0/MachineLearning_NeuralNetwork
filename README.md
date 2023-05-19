@@ -60,7 +60,7 @@ Case 5:
 
 
 
-Some discussions:
+**Some discussions:**
 
 **[–Importance of train, validation, and test data–]**
 The training set is used to develop a model for the dataset. While the validation set prevents the 
