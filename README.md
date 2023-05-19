@@ -1,8 +1,6 @@
 # Machine Learning - NeuralNetwork
 
-Implementation of different configurations of neural network to approximate the function y = 0.2x^4 + 2x^3 + 0.1x^2 + 10 where (−1 ≤ x ≤ 1).
-
-30'000 samples
+Implementation of different configurations of neural network to approximate the function y = 0.2x^4 + 2x^3 + 0.1x^2 + 10 where (−1 ≤ x ≤ 1). 
 
 Includes functions that accepts actual target and predicted values to calculate mean square error(MSE), mean absolute error (MAE), root mean
 square error (RMSE), and r2 score
@@ -19,6 +17,7 @@ Structure 2:
     FCL (24 units ) // one hidden layer
     
 **The follwoing applies in all cases**
+  – The number of samples used is 30'000
   – Data split ratios: 30% training, 20% validation, and 50% test set.
   – Number of epochs: 20
   – Bath size: 12
